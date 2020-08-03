@@ -17,8 +17,6 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
     useNewUrlParser: true,
 });
 
-mongoose.connect(MONGODB_URI);
-
 // routes
 app.use(require("./routes/api-routes"));
 app.use(require("./routes/html-routes"));
