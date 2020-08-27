@@ -16,3 +16,5 @@
   If you have any questions, email me at ryanschuttig@gmail.com, or visit my GitHub page at https://github.com/ryanschuttig.
 
   https://rs-workout-tracker.herokuapp.com/
+  
+  ![fitness](https://user-images.githubusercontent.com/64327639/91478196-775ec400-e86d-11ea-8454-10d22cde0498.png)
